@@ -26,6 +26,7 @@ void main()
         for(j=1;j<=n;j++)
         {
             //Print a "*" when condition satisfies
+            
             if(j>=m+1-i)
             //if(j>=i)
             {
