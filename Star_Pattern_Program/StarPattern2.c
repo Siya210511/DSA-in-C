@@ -26,7 +26,7 @@ void main()
         for(j=1;j<=n;j++)
         {
             //Print a "*" when condition satisfies
-            if(j>=6-i)
+            if(j>=m+1-i)
             //if(j>=i)
             {
                 printf("*");
