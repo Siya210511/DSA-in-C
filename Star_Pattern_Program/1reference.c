@@ -1,5 +1,0 @@
-/*Dated: 09 July/2026
-
-For all the problems in this folder refer to:
-
-Youtube Link: https://youtube.com/playlist?list=PL7ersPsTyYt2prN058WfA_j3ElgwD1bht&si=vRYTRLa8SNaNcv1z*/
