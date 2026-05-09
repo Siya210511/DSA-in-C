@@ -1,10 +1,11 @@
 Data Structures & Algorithms in C (WIP)
 This repository is a dedicated space for mastering Data Structures and Algorithms using the C programming language. It transitions from foundational programming logic to complex data structures, providing a robust base for technical interviews and software development.
 
-Status: 🚧 Work in Progress (WIP). Actively adding new problems and refining implementations.
+Status: 🚧 Work in Progress (WIP). 
+Actively adding new problems and refining implementations.
 
 🛠️ How to Run
-Ensure you have a C compiler (like gcc) installed on your system.
+(Ensure you have a C compiler (like gcc) installed on your system.)
 
 1. Clone the repository:
 
